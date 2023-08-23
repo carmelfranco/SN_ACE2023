@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_782083_hospita_0.admin" name="x_782083_hospita_0.admin">5d7d86069770b1107afbb4b3f153af9b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 06:29:30</sys_created_on>
+        <sys_id>517d86069770b1107afbb4b3f153af9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5d7d86069770b1107afbb4b3f153af9b</sys_name>
+        <sys_package display_value="Hospital Management System" source="x_782083_hospita_0">cd7d86069770b1107afbb4b3f153af95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital Management System">cd7d86069770b1107afbb4b3f153af95</sys_scope>
+        <sys_update_name>sys_embedded_help_role_517d86069770b1107afbb4b3f153af9d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 06:29:30</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
